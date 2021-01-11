@@ -1,4 +1,4 @@
-# Netgress
+# Keg (Kubernetes Egress Gateway)
 
 A network ingress/egress gateway with white/blacklisting capabilities and traffic logging
 
